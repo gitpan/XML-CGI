@@ -1,0 +1,9 @@
+Revision history for Perl extension XML::CGI.
+0.02  Mon Oct 19
+Major contribution by David Black <dblack@candle.superlink.net>
+which gets rid of local context crud, allows user to specify 
+the root element in XML::CGI::toXML, and all-around improvements. 
+
+0.01  Sat Oct 17 13:14:46 1998
+	- original version; created by h2xs 1.18
+

@@ -1,0 +1,29 @@
+Copyright (c) 1998 Jonathan Eisenzopf. All rights reserved.
+
+This package is free software; you can redistribute it and/or
+modify it under the same terms as Perl itself.
+
+NAME
+XML::CGI Version 0.02
+
+ACKNOWLEDGEMENTS
+Thanks to David Black's contributions, this is the first
+release to CPAN of XML::CGI,
+
+DESCRIPTION
+The XML::CGI module converts CGI.pm variables from/to
+XML.
+
+REQUIREMENTS
+This module requires the XML::Parser module. The latest
+version should be available at:
+http://www.netheaven.com/~coopercc/xmlparser/intro.html
+
+
+INSTALLATION
+perl Makefile.PL
+make
+make install
+
+EXAMPLES
+There are examples in the examples/ directory. Get it?
